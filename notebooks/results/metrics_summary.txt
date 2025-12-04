@@ -1,0 +1,7 @@
+Total Records: 10294
+Isolation Forest Anomalies: 515
+Elliptic Envelope Anomalies: 515
+Ensemble Anomalies: 274
+Anomaly Percentage (Ensemble): 2.66%
+Normal Value Mean: 15202.35
+Normal Value Std: 6979.58
